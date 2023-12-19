@@ -25,5 +25,5 @@ class Circle(Shape):
 square = Square(5)
 circle = Circle(3)
 
-print("Square Area:", square.area())  # Output: Square Area: 25
-print("Circle Area:", circle.area())  # Output: Circle Area: 28.27431
+print("Square Area:", square.area())  
+print("Circle Area:", circle.area())  
