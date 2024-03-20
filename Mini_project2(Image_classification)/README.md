@@ -32,7 +32,7 @@ To use the image classification model:
 ## Example
 
 To classify an image of a fruit or vegetable using the trained model:
-![uploading an image](<img width="734" alt="Screenshot 2024-03-20 174119" src="https://github.com/lion600/Scifor-Technology-/assets/64638098/c6022c8f-0620-4692-acdb-8f143327b0fd">)
+![uploading an image](Image_classification1.png)
 
 
 Replace `path/to/fruit_or_vegetable.jpg` with the path to the image you want to classify.
