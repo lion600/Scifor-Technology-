@@ -33,8 +33,8 @@ To use the image classification model:
 
 To classify an image of a fruit or vegetable using the trained model:
 ![uploading an image](Image_classification1.png)
+![Classify the image](image_classification2.png)
 
 
-Replace `path/to/fruit_or_vegetable.jpg` with the path to the image you want to classify.
 
 
